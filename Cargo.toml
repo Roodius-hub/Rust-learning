@@ -1,0 +1,9 @@
+[package]
+name = "DataStructure"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bitflags = "2.9.4"
+dotenv = "0.15.0"
+lazy_static = "1.4.0"
