@@ -25,4 +25,5 @@
 // include!("patter_matching/option_result_togathor.rs");
 // include!("patter_matching/advance_patter.rs");
 // include!("patter_matching/with_array_slices.rs");
-include!("data_struc/skip_list.rs");
+// include!("data_struc/skip_list.rs");
+include!("data_struc/hashing.rs");

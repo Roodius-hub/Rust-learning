@@ -1,1 +1,1 @@
-/home/roodius/Desktop/rust/DataStructure/target/debug/libDataStructure.rlib: /home/roodius/Desktop/rust/DataStructure/src/lib.rs /home/roodius/Desktop/rust/DataStructure/src/modules/mod.rs /home/roodius/Desktop/rust/DataStructure/src/modules/multi.rs
+/home/roodius/Desktop/Rusty/target/debug/libDataStructure.rlib: /home/roodius/Desktop/Rusty/src/lib.rs /home/roodius/Desktop/Rusty/src/modules/mod.rs /home/roodius/Desktop/Rusty/src/modules/multi.rs
