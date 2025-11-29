@@ -1,1 +1,1 @@
-/home/roodius/Desktop/Rusty/target/debug/DataStructure: /home/roodius/Desktop/Rusty/src/data_struc/hashing.rs /home/roodius/Desktop/Rusty/src/lib.rs /home/roodius/Desktop/Rusty/src/main.rs /home/roodius/Desktop/Rusty/src/modules/mod.rs /home/roodius/Desktop/Rusty/src/modules/multi.rs
+/home/roodius/Desktop/Rusty/target/debug/DataStructure: /home/roodius/Desktop/Rusty/src/data_struc/sliding_window.rs /home/roodius/Desktop/Rusty/src/lib.rs /home/roodius/Desktop/Rusty/src/main.rs /home/roodius/Desktop/Rusty/src/modules/mod.rs /home/roodius/Desktop/Rusty/src/modules/multi.rs

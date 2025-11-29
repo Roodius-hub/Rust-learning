@@ -26,4 +26,6 @@
 // include!("patter_matching/advance_patter.rs");
 // include!("patter_matching/with_array_slices.rs");
 // include!("data_struc/skip_list.rs");
-include!("data_struc/hashing.rs");
+// include!("data_struc/hashing.rs");
+// include!("data_struc/sliding_/window.rs");
+include!("data_struc/Trie.rs");
