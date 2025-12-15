@@ -28,4 +28,5 @@
 // include!("data_struc/skip_list.rs");
 // include!("data_struc/hashing.rs");
 // include!("data_struc/sliding_/window.rs");
-include!("data_struc/Trie.rs");
+// include!("data_struc/Trie.rs");
+include!("data_struc/min_heap_max_heap.rs");

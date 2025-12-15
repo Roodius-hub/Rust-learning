@@ -88,8 +88,8 @@ impl Trie {
     pub  fn delete(&mut self, word:&str) -> bool {
         if word.is_empty() {
             if self.root.is_word {
-                self.root.is_word = true;
-                self.size += 1;
+                self.root.is_word = false;
+                self.size -= 1;
                 return true;
             } else {
                 return false;
